@@ -1,0 +1,16 @@
+$navbarCollapseWidth: 780px;
+$baseFontFamily: Oxygen;
+$navbarBackground: #155a3d;
+$navbarBackgroundHighlight: #1a704b;
+$navbarText: #fff;
+$navbarLinkColor: #fff;
+$navbarLinkColorHover: #ccc;
+
+@import url(http://fonts.googleapis.com/css?family=Oxygen:300);
+
+@import 'bootstrap';
+body {padding-top:4em;}
+@import 'bootstrap-responsive';
+
+#footer {margin-top:6em; color: #333;}
+#footer a {color:#333;}
